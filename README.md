@@ -30,4 +30,12 @@ Deletion</li></ol>
  </li><li>Write a program to implement Queue using Array.
  </li><li>Write a program to implement Linked List using Queue.
  </li><li>Write a program for conversion of infix expression to Postfix expression.
-  </li><li>Write a program for evaluation of Postfix Expression.</li></ol>
+  </li><li>Write a program for evaluation of Postfix Expression.
+  </li><li>Write a program to show preorder, inorder and postorder traversals of a binary tree.
+  </li><li>Write a program to implement a binary search tree.
+  </li><li>Write a program to perform following operations on a sparse matrix<ol>
+  <li>Read a sparse matrix and store it in condensed form</li><li>
+  Add two sparse matrices in condensed form</li><li>
+  Transpose a sparse Matrix</li>
+                                                                                 
+</ol></ol>
