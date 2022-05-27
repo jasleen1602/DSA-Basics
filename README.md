@@ -10,18 +10,17 @@ Deletion</li><li>
 Sorting</li><li>
 Searching (linear Search)</li></ol>
   </li><li>Write a  program to implement Binary Search.
- </li><li>Write a  program to perform following operations on a Single Linked List data
-structure<ol><li>
+ </li><li>Write a  program to perform following operations on a Single Linked List data structure<ol><li>
 Traversal</li><li>
 Insertion after a particular node </li><li>
 Insertion before a particular node </li><li>
-Deletion</li><li></ol>
-Reversal of a Liked List by revering the links</li><li>
+Deletion</li><li>
+  Reversal of a Liked List by revering the links</li></ol>
  </li><li>Write a program to add two Polynomial Equations using Linked List
  </li><li>Write a program to perform following operations on a Doubly Linked List<ol><li>
 Traversal</li><li>
 Insertion</li><li>
-Deletion	</li><li></ol>
+Deletion</li></ol>
  </li><li>Write a program to perform following operations on a Circular Linked List<ol><li>
 Traversal</li><li>
 Insertion </li><li>
